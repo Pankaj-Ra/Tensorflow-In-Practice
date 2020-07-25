@@ -5,7 +5,7 @@ The diagram for traditional programming had Rules and Data In, but what came out
 Bugs
 
 
-Machine Learning
+MachineLearning
 
 
 -- Answers
