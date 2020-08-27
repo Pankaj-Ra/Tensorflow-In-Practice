@@ -157,7 +157,7 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Moving average and differencing
 - Trailing versus centered windows
 - Forecasting
-- [Week 1 - Create and predict synthetic data with time series decomposition.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%201%20-%20Create%20and%20predict%20synthetic%20data%20with%20time%20series%20decomposition.ipynb)
+- [Week 1 - Create and predict synthetic data with time series decomposition.ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/4.%20Sequences%20and%20Prediction/Week%201%20-%20Create%20and%20predict%20synthetic%20data%20with%20time%20series%20decomposition.ipynb)
 
 #### Week 2: Deep Neural Networks for Time Series
 
@@ -169,9 +169,9 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Prediction
 - More on single-layer network
 - Deep neural network training, tuning, and prediction
-- [Week 2.1 - Prepare features and labels.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.1%20-%20Prepare%20features%20and%20labels.ipynb)
-- [Week 2.2 - Predict synthetic data with Linear Regression.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.2%20-%20Predict%20synthetic%20data%20with%20Linear%20Regression.ipynb)
-- [Week 2.3 - Predict synthetic data with MLP.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.3%20-%20Predict%20synthetic%20data%20with%20MLP.ipynb)
+- [Week 2.1 - Prepare features and labels.ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/4.%20Sequences%20and%20Prediction/Week%202.1%20-%20Prepare%20features%20and%20labels.ipynb)
+- [Week 2.2 - Predict synthetic data with Linear Regression.ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/4.%20Sequences%20and%20Prediction/Week%202.2%20-%20Predict%20synthetic%20data%20with%20Linear%20Regression.ipynb)
+- [Week 2.3 - Predict synthetic data with MLP.ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/4.%20Sequences%20and%20Prediction/Week%202.3%20-%20Predict%20synthetic%20data%20with%20MLP.ipynb)
 
 #### Week 3: Recurrent Neural Networks for Time Series
 
@@ -184,8 +184,8 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - LSTMs
 - Coding LSTMs
 - More on LSTMs
-- [Week 3.1 - Finding an optimal learning rate for a RNN.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%203.1%20-%20Finding%20an%20optimal%20learning%20rate%20for%20a%20RNN.ipynb)
-- [Week 3.2 - LSTM.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%203.2%20-%20LSTM.ipynb)
+- [Week 3.1 - Finding an optimal learning rate for a RNN.ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/4.%20Sequences%20and%20Prediction/Week%203.1%20-%20Finding%20an%20optimal%20learning%20rate%20for%20a%20RNN.ipynb)
+- [Week 3.2 - LSTM.ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/4.%20Sequences%20and%20Prediction/Week%203.2%20-%20LSTM.ipynb)
 
 #### Week 4: Real-world Time Series Data
 
