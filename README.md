@@ -1,5 +1,8 @@
 ![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
 
+## Course Certificate
+(https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/TensorFlow%20Developer.pdf)
+
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
 
 This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
@@ -197,3 +200,7 @@ In this fourth course, you will learn how to solve time series and forecasting p
 - Prediction
 - Sunspots
 - Combining our tools for analysis
+- [Week 4.1 - Create and predict synthetic data with time series decomposition.ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/4.%20Sequences%20and%20Prediction/Week%204.1%20-%20Create%20and%20predict%20synthetic%20data%20with%20time%20series%20decomposition.ipynb)
+- [Week 4.2 - Predict with DNN.ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/4.%20Sequences%20and%20Prediction/Week%204.2%20-%20Predict%20with%20DNN.ipynb)
+- [Week 4.3 - LSTM Mean Absolute Error.ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/4.%20Sequences%20and%20Prediction/Week%204.3%20-%20LSTM%20Mean%20Absolute%20Error.ipynb)
+- [Week 4.4 - Bi Directional LSTM Sun spot (real world data).ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/4.%20Sequences%20and%20Prediction/Week%204.4%20-%20Bi%20Directional%20LSTM%20Sun%20spot%20(real%20world%20data).ipynb)
