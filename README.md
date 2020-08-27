@@ -1,7 +1,7 @@
 ![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
 
 ## Course Certificate
-(https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/TensorFlow%20Developer.pdf)
+![img](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/TensorFlow%20Developer%20Certificate.jpg)
 
 ## Course 1: Introduction to TensorFlow for AI, ML and DL
 
