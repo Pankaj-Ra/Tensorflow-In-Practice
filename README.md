@@ -140,3 +140,60 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - Poetry!
 - Laurence the poet
 - [Week 4 - Poem generation with Bi-directional LSTM.ipynb](https://github.com/Pankaj-Ra/Tensorflow-In-Practice/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204%20-%20Poem%20generation%20with%20Bi-directional%20LSTM.ipynb)
+
+## Course 4: Sequences, Time Series, and Prediction
+
+In this fourth course, you will learn how to solve time series and forecasting problems in TensorFlow. You’ll first implement best practices to prepare data for time series learning. You’ll also explore how RNNs and ConvNets can be used for predictions. Finally, you’ll apply everything you’ve learned throughout the Specialization to build a sunspot prediction model using real-world data!
+
+#### Week 1: Sequences and Prediction
+
+- Introduction: a conversation with Andrew Ng
+- Time series examples
+- Machine learning applied to time series
+- Common patterns in time series
+- Introduction to time series
+- Train, validation, and test sets
+- Metrics for evaluating performance
+- Moving average and differencing
+- Trailing versus centered windows
+- Forecasting
+- [Week 1 - Create and predict synthetic data with time series decomposition.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%201%20-%20Create%20and%20predict%20synthetic%20data%20with%20time%20series%20decomposition.ipynb)
+
+#### Week 2: Deep Neural Networks for Time Series
+
+- A conversation with Andrew Ng
+- Preparing features and labels
+- Feeding a windowed dataset into a neural network
+- Single layer neural network
+- Machine learning on time windows
+- Prediction
+- More on single-layer network
+- Deep neural network training, tuning, and prediction
+- [Week 2.1 - Prepare features and labels.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.1%20-%20Prepare%20features%20and%20labels.ipynb)
+- [Week 2.2 - Predict synthetic data with Linear Regression.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.2%20-%20Predict%20synthetic%20data%20with%20Linear%20Regression.ipynb)
+- [Week 2.3 - Predict synthetic data with MLP.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.3%20-%20Predict%20synthetic%20data%20with%20MLP.ipynb)
+
+#### Week 3: Recurrent Neural Networks for Time Series
+
+- A conversation with Andrew Ng
+- Shape of the inputs to the RNN
+- Outputting a sequence
+- Lambda layers
+- Adjusting the learning rate dynamically
+- RNNs
+- LSTMs
+- Coding LSTMs
+- More on LSTMs
+- [Week 3.1 - Finding an optimal learning rate for a RNN.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%203.1%20-%20Finding%20an%20optimal%20learning%20rate%20for%20a%20RNN.ipynb)
+- [Week 3.2 - LSTM.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%203.2%20-%20LSTM.ipynb)
+
+#### Week 4: Real-world Time Series Data
+
+- A conversation with Andrew Ng
+- Convolutions
+- Bi-directional LSTMs
+- Real data – sunspots
+- Train and tune the model
+- Prediction
+- Sunspots
+- Combining our tools for analysis
